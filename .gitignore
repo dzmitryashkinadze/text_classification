@@ -1,0 +1,5 @@
+mlruns/
+mlartifacts/
+data/
+test.ipynb
+*.png
