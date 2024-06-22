@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 
 
 # HYPERPARAMETERS
-batch_size = 32
+batch_size = 16
 num_epochs = 2
 learning_rate = 2e-5
 dropout_rate = 0.1
