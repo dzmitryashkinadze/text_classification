@@ -22,7 +22,7 @@ learning_rate = 2e-5
 dropout_rate = 0.1
 max_length = 512
 test_size=0.1
-weight_decay = 0.0005
+weight_decay = 0.002
 
 # register hyperparameters
 mlflow.log_param("batch_size", batch_size)
